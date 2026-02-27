@@ -1,0 +1,1 @@
+Console Task Manager (Java) – Built a simple console-based task management application in Java, allowing users to add, list, complete and delete tasks. Implemented basic object-oriented design with separate Task, TaskManager and TaskManagerApp classes, using ArrayList for in-memory storage and input validation for user interactions.
